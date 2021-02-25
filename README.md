@@ -1,6 +1,6 @@
 # SelfCheck_Kor
 
-**English**
+**English**/n
 It is Health Condition Self-Check for COVID-19
 
 **한국어**
