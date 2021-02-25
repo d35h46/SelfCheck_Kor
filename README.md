@@ -1,4 +1,4 @@
-# SelfCheck_Kor
+# SelfCheck_Kor / 건간상태 자가진단 알림
 
 **English**
 
