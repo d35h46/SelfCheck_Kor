@@ -3,7 +3,9 @@
 **English**
 
 It is Health Condition Self-Check for COVID-19
+[](https://kor-selfcheck.kro.kr/Main.html)
 
 **한국어**
 
 코로나-19의 건강상태 자가진단 알림입니다.
+[휍사이트 바로가기](https://kor-selfcheck.kro.kr/Main.html)
