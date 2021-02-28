@@ -13,7 +13,7 @@ body{
 h1{
     text-align: center;
     font-size: 100px;
-    padding-top: 15%
+    padding-top: 10%
 }
 
 .nav_container{
@@ -46,10 +46,19 @@ a:hover{
     border-radius: 5px;
 }
 
-nav ul img{
+ul img{
     width: 70px;
     margin-left: 15px;
     margin-right: auto;
+}
+
+#main_logo{
+    display: block;
+    width: 70%;
+    margin: auto;
+    position: relative;
+    border-radius: 20px;
+    z-index: -1;
 }
 
 @keyframes slidein {
