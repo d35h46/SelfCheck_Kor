@@ -66,7 +66,7 @@ ul img{
     position: relative;
     top: 80px;
     border-radius: 20px;
-    z-index: -1;
+    z-index: 0;
     animation: FadeIN 1s;
 }
 
