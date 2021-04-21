@@ -24,6 +24,11 @@ h2{
     animation: FadeIN 1s;
 }
 
+h3{
+    text-align: center;
+    font-size: 25px;
+}
+
 .nav_container{
     display: flex;
     flex-direction: row;
@@ -75,6 +80,11 @@ ul img{
     margin-left: 50px;
 }
 
+.EX{
+    color: red;
+    animation: Touching 0.3s infinite;
+}
+
 @keyframes slidein {
   from {
     margin-top: -100;
@@ -92,4 +102,16 @@ ul img{
   100% {
     opacity: 1;
   }
+}
+
+@keyframes Touching{
+    0%{
+        color: red;
+    }
+    50%{
+        color: green;
+    }
+    100%{
+        color: blue;
+    }
 }
